@@ -11,6 +11,7 @@ Future<void> main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
   runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
     home: MyApp(),
   ));
 }
@@ -20,6 +21,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Login_screen();
+    return Admin();
   }
 }
