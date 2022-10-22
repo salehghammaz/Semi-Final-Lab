@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1018624565037",
+    "project_id": "semi-final-lab-flutter",
+    "storage_bucket": "semi-final-lab-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018624565037:android:c12dab7bef5ff8e5cabda4",
+        "android_client_info": {
+          "package_name": "com.example.citycafe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018624565037-60tmj1tommco3mhnot51ehq7j3lbnevn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citycafe_app",
+            "certificate_hash": "c3ead301283eeedd837a24074a6fd807e926b60b"
+          }
+        },
+        {
+          "client_id": "1018624565037-grop21gugo4mhb0bkkfpgl2n18coiuju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlutFMJkaedHEMiNyY2No1UYPrflSV1Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018624565037-grop21gugo4mhb0bkkfpgl2n18coiuju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018624565037-sb3ui2mej8ksg8787tdh1gtekkt8jvkv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.citycafeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
