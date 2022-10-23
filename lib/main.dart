@@ -21,6 +21,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Admin();
+    return Login_screen();
   }
 }
